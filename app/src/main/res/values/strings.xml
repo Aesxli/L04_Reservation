@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04_Reservation</string>
+    <string name="name_title">Name:</string>
+    <string name="name_hint">Please Enter Your Name</string>
+    <string name="phone_name">Phone Number:</string>
+    <string name="phone_hint">Enter Your Phone Number</string>
+    <string name="group_size">Group Size: </string>
+    <string name="group_size_hint">Enter Your Group Size</string>
+    <string name="S">Smoking Area</string>
+    <string name="NS">Non-Smoking Area</string>
+    <string name="C">Confirm</string>
+    <string name="R">Reset</string>
+</resources>
